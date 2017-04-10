@@ -1,0 +1,17 @@
+{
+  "name": "registrationapi",
+  "version": "1.0.0",
+  "description": "course registration rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Appi",
+  "license": "ISC",
+  "dependencies": {
+    "boom": "^4.2.0",
+    "hapi": "^16.1.0",
+    "joi": "^10.2.0",
+    "mongojs": "^2.4.0"
+  }
+}
